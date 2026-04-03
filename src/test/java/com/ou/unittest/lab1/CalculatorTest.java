@@ -9,6 +9,7 @@ import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
 
 public class CalculatorTest {
+    
     private Calculator calculator; // Tạo 1 biến từ lớp Calculator bên file src với 1 biến tham chiếu từ lớp Calculator
 
     @BeforeEach
